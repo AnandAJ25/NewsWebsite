@@ -1,12 +1,16 @@
-# React + Vite
+# Project Title
+NewsMag - A news aggregator application that fetches news from various sources and displays them in a user-friendly interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+NewsMag is a modern news aggregator built with React and Vite. It fetches the latest headlines from NewsAPI and displays them in a clean, responsive interface. Users can browse news by categories such as Technology, Business, Health, Science, Sports, and Entertainment. The app features attractive card layouts, category navigation, and real-time updates.
 
-Currently, two official plugins are available:
+## Usage
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+How my Homepage looks like
+![Homepage Screenshot](./src/assets/home.png)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+How my entertainment News looks like
+![Homepage Screenshot](./src/assets/entertainment.png)
+ 
+How my Techology News looks like
+![Homepage Screenshot](./src/assets/tech.png)
