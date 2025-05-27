@@ -16,4 +16,4 @@ How my Techology News looks like
 ![Homepage Screenshot](./src/assets/tech.png)
 
 By clicking on Readme button , you can see the full description of the news article
-![Homepage Screenshot](./src/assets/redirect.png)
+![Homepage Screenshot](./src/assets/Redirect.png)
